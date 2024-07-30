@@ -5,7 +5,7 @@ const pool = new Pool({
   host: "localhost",
   database: "qap3fsdb",
   password: "keyin2021",
-  port: 3000,
+  port: 5434,
 });
 
 // Function to get all products
